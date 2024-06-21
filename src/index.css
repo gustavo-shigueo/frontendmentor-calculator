@@ -162,7 +162,7 @@ main {
   gap: var(--gap);
   margin: auto;
 
-  inline-size: min(100vw - 2 * var(--gap), 20rem);
+  inline-size: min(100vw - 2 * var(--gap), 25rem);
 }
 
 header {
